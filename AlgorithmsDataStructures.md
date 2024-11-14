@@ -70,3 +70,4 @@
 
 - [Learn DS & Algorithms](https://www.programiz.com/dsa) Learn different types of data structures and algorithms and their implementations in Python, C, C++, and Java.
 
+- [Data Structures and Algorithms](https://www.w3schools.com/dsa/index.php) Learn DSA for beginners for free, the implementations are available in C, Java, and Python and the time complexities for each algorithm are explained in detail.
